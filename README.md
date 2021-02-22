@@ -9,22 +9,24 @@
    
 ## 2. 서비스 정의 및 목표   
 * 목표    
-+ 간단한 색상 게임 구현하기   
+   * 간단한 색상 게임 구현하기   
 * 목적   
-+ 사고력을 키울 수 있다    
-+ 게임을 하면서 흥미를 키울 수 있다    
+   * 사고력을 키울 수 있다    
+   * 게임을 하면서 흥미를 키울 수 있다    
 * 특징   
-+ 직관적이고 깔끔한 UI/UX 디자인  
-+ 참고 아이디어   
-+ AI 면접 적성 검사 게임을 참고   
+   * 직관적이고 깔끔한 UI/UX 디자인  
+   * 참고 아이디어   
+   * AI 면접 적성 검사 게임을 참고   
 * 서비스 구조   
-+ 문제 확인 → 문제 풀기 → 점수 반영   
+   * 문제 확인 → 문제 풀기 → 점수 반영   
     
 ## 3. Flow chart  
-<img src="/path/to/img.jpg" width="40%" height="30%" title="플로우차트" alt="RubberDuck"></img>
+<img src="/img/flowchart.jpg" width="40%" height="30%" title="플로우차트" alt="RubberDuck"></img>
  
 ## 4. 와이어 프레임   
-<img src="/path/to/img.jpg" width="40%" height="30%" title="와이어프레임" alt="RubberDuck"></img>
+<img src="/img/main.jpg" width="33%" height="30%" title="main" alt="main"></img>
+<img src="/img/score.jpg" width="33%" height="30%" title="score" alt="score"></img>
+<img src="/img/top.jpg" width="33%" height="30%" title="top" alt="top"></img>
  
 색상을 뜻하는 단어와 단어의 색상이 랜덤하게 바뀐다.
 문제가 노출되는 시간은 1초이다.
