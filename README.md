@@ -21,12 +21,12 @@
    * 문제 확인 → 문제 풀기 → 점수 반영   
     
 ## 3. Flow chart  
-<img src="./img/flowchart.jpg" width="40%" height="30%" title="플로우차트"></img>
+<img src="./img/flowchart.png" width="40%" height="30%" title="플로우차트"></img>
  
 ## 4. 와이어 프레임   
-<img src="./img/main.jpg" width="33%" height="30%" title="main"></img>
-<img src="./img/score.jpg" width="33%" height="30%" title="score"></img>
-<img src="./img/top.jpg" width="33%" height="30%" title="top"></img>
+<img src="./img/main.png" width="33%" height="30%" title="main"></img>
+<img src="./img/score.png" width="33%" height="30%" title="score"></img>
+<img src="./img/top.png" width="33%" height="30%" title="top"></img>
  
 색상을 뜻하는 단어와 단어의 색상이 랜덤하게 바뀐다.
 문제가 노출되는 시간은 1초이다.
